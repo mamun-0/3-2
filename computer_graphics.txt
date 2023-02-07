@@ -1,0 +1,16 @@
+------------------------
+	class-1
+------------------------
+*computer graphics introduction
+
+------------------------
+	class-2
+------------------------
+*how to draw a line
+*raster scanning method
+*mid point line drawing algorithm
+*mid point line deawing code(c, c++, java, python, etc...)
+*circle drawing midpoint algorithm
+*platonic algorithm
+*line thickness algorithm
+
