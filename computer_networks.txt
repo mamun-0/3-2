@@ -1,0 +1,29 @@
+----------------------
+	class-1
+----------------------
+
+*what is computer networking?
+*data transfering type
+	1.peer to peer
+	2.broadcast
+*network types
+	1.personal
+	2.local
+	3.metropolitan
+	4.wide area network
+	5.inter network
+*OSI reference model
+	1.All 7 layer
+*TCP/IP
+	1.All 5 layer
+
+-----------------------
+	class-2
+-----------------------
+*Task of all layer
+*datalink layers and each of it's task
+*what is framming & framming technique
+	1.byte count & disadvantage
+	2.flag bits with byte stuffing & disadvantage
+	3.flag bits with bit stuffing
+
