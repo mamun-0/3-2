@@ -14,3 +14,52 @@
 *platonic algorithm
 *line thickness algorithm
 
+------------------------
+	class-3
+------------------------
+*computer graphics operation(2D translation)
+*rotation, translation, scaling, reflection, share
+*translation operation representing using matrix
+*rotation operation representing using matrix
+*represent all operations using single matrix
+
+------------------------
+	class-4
+------------------------
+*reverse operation
+*verious projection(parallel projection, oblique projection)
+*rendering
+*rigging
+
+------------------------
+	class-5
+------------------------
+*3D world-coordinate
+*projection type
+
+------------------------
+	class-6
+------------------------
+*surface tangents and normals
+*parametic equation
+*camera model
+*visiability
+*shading
+*texture mapping
+*basic ray tracing
+
+------------------------
+	class-7
+------------------------
+*spline curve, spline surface
+*B-spline curve(gfg)
+*B-spline curve equation:(gfg)
+*for exam question follow gfg and tutorialspoint
+*BSP tree with algorithm
+*Oct tree
+*same similar fractal
+*what is fractal
+	1.fractal dimention with explanation
+	2.types of fractal
+	3.application of fractal
+*visible surface detection method, z-buffer method with algorithm
