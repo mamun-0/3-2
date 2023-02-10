@@ -27,3 +27,51 @@
 	2.flag bits with byte stuffing & disadvantage
 	3.flag bits with bit stuffing
 
+------------------------
+	class-3
+------------------------
+*error correcting code
+*hamming code
+*error detecting code
+	1.parity
+	2.interleaved parity
+	3.checksum
+	4.crc
+
+------------------------
+	class-4
+------------------------
+*a utopian simplex protocol
+*a simplex stop-and-wait protocol for an error free channel
+*a simplex stop-and-wait protocol for a noisy channel
+
+------------------------
+	class-5
+------------------------
+*piggybacking
+*sliding window protocol
+*1-bit sliding window protocol with problem
+
+------------------------
+	class-6
+------------------------
+*normal and abnormal case in 1-bit sliding protocol
+*a protocol using go-back-n
+*go-back-n problem without algorithm
+*a protocol using selective repeat with problem(important)
+
+------------------------
+	class-7
+------------------------
+*network layer tasks
+*what is routing algorithm, routing table
+*tasks of router
+*connection type
+	1.connection less
+	2.connection oriented
+*difference between connection less and connection oriented
+*routing algorithm
+	1.non adaptive
+	2.adaptive
+*optimality principle, sink tree
+*shotest path algorithm
