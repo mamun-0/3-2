@@ -75,3 +75,20 @@
 	2.adaptive
 *optimality principle, sink tree
 *shotest path algorithm
+
+------------------------
+	class-8
+------------------------
+*Flooding
+	1.routing algorithm
+	2.principle
+	3.disadvantage
+*removing duplicate packet technique
+*distance vector routing
+	1.//image link
+	2.steps
+	3.problem with example
+
+*link state routing(DVR+Flooding)
+	1.//image link
+	2.steps
